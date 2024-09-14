@@ -19,38 +19,18 @@ This project focuses on detecting and classifying traffic objects in real-time u
 -   TensorFlow 2
 
 ## Visual Results
+|Model | 1 | 2 | 3 | 4 |
+|--|--|--|--|--|
+| ### YOLO ### | <img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_1.gif"> | <img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_2.gif"> | <img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_3.gif"> | <img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_4.gif"> | 
+|--|--|--|--|--|
+| ### Faster R-CNN ### | <img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_1.gif"> | <img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_2.gif"> | <img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_3.gif"> | <img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_4.gif"> |
 
 
-### YOLO ###
 
-<img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_1.gif">
+### YOLO and Faster R-CNN  comparison ###
 
-<img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_2.gif">
+|  | YOLO | Faster R-CNN |
+|--|--|--|
+| 5 |<img  align="left"  width="390"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_5.gif">  |<img  align="right"  width="390"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_5.gif">  |
+| 6 | <img  align="left"  width="390"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_6.gif"> | <img  align="right"  width="390"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_6.gif"> |
 
-<img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_3.gif">
-
-<img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_4.gif">
-
-  
-
-### Faster R-CNN ###
-
-<img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_1.gif">
-
-<img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_2.gif">
-
-<img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_3.gif">
-
-<img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_4.gif">
-
-  
-
-### YOLO (left) & Faster R-CNN (right) comparison ###
-
-<img  align="left"  width="390"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_5.gif">
-
-<img  align="right"  width="390"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_5.gif">
-
-<img  align="left"  width="390"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_6.gif">
-
-<img  align="right"  width="390"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_6.gif">
