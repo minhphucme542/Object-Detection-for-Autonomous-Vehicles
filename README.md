@@ -1,11 +1,56 @@
 # Object-Detection-for-Autonomous-Vehicles
 
-- Designed and implemented a deep learning-based object detection
-model using TensorFlow and OpenCV
-- Trained the model on a dataset of 50,000 images and achieved an
-accuracy of 96%
-- Worked with a team of 3 engineers to deploy the model on a cloud-based
-platform for autonomous vehicle testing
-- YOLO model achieved a mAP of 0.85 on our test dataset, the real-time
-object detection system was able to detect objects in real-time with a
-frame rate of 30 FPS
+## Overview
+
+This project focuses on detecting and classifying traffic objects in real-time using two approaches: YOLO and Faster R-CNN. We trained these models on the Berkeley DeepDrive dataset and evaluated their performance on the test dataset of BDD100K.
+
+## Models and Results
+
+|Architecture\Metric| mAP |FPS|
+|--|--|--|
+| YOLO | 18.6% |212.4|
+| Faster R-CNN | 41.8% |17.1|
+
+## Tools and Frameworks
+
+-   Python 3
+-   PyTorch Framework
+-   OpenCV
+-   TensorFlow 2
+
+## Visual Results
+
+
+### YOLO ###
+
+<img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_1.gif">
+
+<img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_2.gif">
+
+<img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_3.gif">
+
+<img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_4.gif">
+
+  
+
+### Faster R-CNN ###
+
+<img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_1.gif">
+
+<img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_2.gif">
+
+<img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_3.gif">
+
+<img  align="center"  width="1000"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_4.gif">
+
+  
+
+### YOLO (left) & Faster R-CNN (right) comparison ###
+
+<img  align="left"  width="390"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_5.gif">
+
+<img  align="right"  width="390"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_5.gif">
+
+<img  align="left"  width="390"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_6.gif">
+
+<img  align="right"  width="390"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_6.gif">
