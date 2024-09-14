@@ -6,5 +6,6 @@ model using TensorFlow and OpenCV
 accuracy of 96%
 - Worked with a team of 3 engineers to deploy the model on a cloud-based
 platform for autonomous vehicle testing
-- Published a research paper on the project in a reputable journal on
-autonomous vehicles
+- YOLO model achieved a mAP of 0.85 on our test dataset, the real-time
+object detection system was able to detect objects in real-time with a
+frame rate of 30 FPS
