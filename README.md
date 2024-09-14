@@ -21,9 +21,9 @@ This project focuses on detecting and classifying traffic objects in real-time u
 ## Visual Results
 |Model | 1 | 2 | 3 | 4 |
 |--|--|--|--|--|
-| ** YOLO ** | <img  align="center"  width="200"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_1.gif"> | <img  align="center"  width="200"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_2.gif"> | <img  align="center"  width="200"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_3.gif"> | <img  align="center"  width="200"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_4.gif"> | 
+| **YOLO** | <img  align="center"  width="200"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_1.gif"> | <img  align="center"  width="200"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_2.gif"> | <img  align="center"  width="200"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_3.gif"> | <img  align="center"  width="200"  height=""  src="Result%20images%20and%20videos/YOLO/yolo_4.gif"> | 
 |--|--|--|--|--|
-| ** Faster R-CNN ** | <img  align="center"  width="200"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_1.gif"> | <img  align="center"  width="200"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_2.gif"> | <img  align="center"  width="200"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_3.gif"> | <img  align="center"  width="200"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_4.gif"> |
+| **Faster R-CNN** | <img  align="center"  width="200"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_1.gif"> | <img  align="center"  width="200"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_2.gif"> | <img  align="center"  width="200"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_3.gif"> | <img  align="center"  width="200"  height=""  src="Result%20images%20and%20videos/Faster%20R-CNN/faster_rcnn_4.gif"> |
 
 
 
